@@ -15,4 +15,4 @@ Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly m
 
 - Clone the repository:
 
-   git clone https://github.com/rishavy/PRODIGY_WD_02.git
+   git clone https://github.com/Yuvraj-0807/Prasunet_WD_2
